@@ -42,7 +42,7 @@ huggingface-hub==0.16.4
 idna==3.3
 imageio==2.31.2
 ipykernel==6.13.0
-ipython==8.2.0
+ipython==7.34.0
 ipython-genutils==0.2.0
 itsdangerous==2.1.2
 jedi==0.18.1
