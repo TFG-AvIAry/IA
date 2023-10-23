@@ -40,7 +40,7 @@ google-auth-oauthlib==1.0.0
 grpcio==1.59.0
 huggingface-hub==0.16.4
 idna==3.3
-imageio==2.31.5
+imageio==2.31.2
 ipykernel==6.13.0
 ipython==8.2.0
 ipython-genutils==0.2.0
