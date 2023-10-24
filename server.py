@@ -15,6 +15,7 @@ model_path = 'static/best_model.pth'
 
 
 # Cargar el modelo
+
 model = torch.load(model_path)
 
 # Cargar las clases
